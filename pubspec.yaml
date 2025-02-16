@@ -8,7 +8,7 @@ environment:
 
 dependencies:
   bloc: ^8.1.4
-  dio: ^5.7.0
+  dio: ^5.8.0+1
   fl_chart: ^0.70.2
   flutter:
     sdk: flutter

@@ -747,10 +747,10 @@ packages:
     dependency: "direct main"
     description:
       name: weather_animation
-      sha256: "4c91c7ec2e7fcf388c6372f34d3e3107c03b5c7832f54a36a29d9bac40bb83c0"
+      sha256: "86165579ce94deed46064ccc6078333d0e54963a19fad23296d286f3f57ebaac"
       url: "https://pub.dev"
     source: hosted
-    version: "1.1.1"
+    version: "1.1.2"
   web:
     dependency: transitive
     description:
